@@ -24,7 +24,7 @@ Similar to AAC (augmentative and alternative communication) devices used for non
 ## Why it exists
 Built for caregivers of non-verbal/minimally verbal kids who deal with constant frustration (IEPs that lie, devices that brick, systems that gatekeep). Anger builds, tone gets weaponized against you, and suddenly you’re the “crazy” one instead of the person pointing out real problems. This tool lets the truth get through without handing people the “unstable” label.
 
-Built for anyone adult that recogonizes they have a affactive communication skillset. 
+Built for anyone adult that recogonizes they dont  have a affactive communication skillset. 
 
 ## Status
 - Early concept / guinea-pig phase.
