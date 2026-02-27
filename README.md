@@ -1,6 +1,6 @@
 # -VoiceBox-Emotions-Intensity-Filter-Communication-Aid
  VoiceBox – Emotions/Intensity Filter Communication Aid 
-# VoiceBox – Anger/Intensity Filter Communication Aid
+# VoiceBox – Emotions (anger Fear0/Intensity Filter Communication Aid
 
 ## What it is
 A simple, local-only (no cloud) communication device/app for people who:
